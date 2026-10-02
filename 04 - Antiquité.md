@@ -13,7 +13,7 @@ Au fil des millénaires de cet Âge, les civilisations s'étendent, se développ
 # Début de l'Antiquité
 
 Avant le premier tour, remettez le Compteur d'actions à zéro. Ensuite, chaque joueur lance 2d6 et ajoute le total à sa Réserve d'actions.
-# Le tour de l'Antiquité
+# Le tour Antique
 
 - A. Chaque joueur joue à son tour. Le tour du joueur
 	1. Le joueur actif choisit d'effectuer une Action ou de Passer.

@@ -14,7 +14,8 @@ Durant cette période, les différents Peuples continuent d'interagir, se scinda
 # Début du Présent
 
 Avant le premier tour, remettez le Compteur d'actions à zéro. Ensuite, chaque joueur lance 2d6 et ajoute le total à sa Réserve d'actions.
-# Le tour actuel
+# Le tour du Présent
+
 - A. Chaque joueur joue à son tour. Le tour du joueur :
 	1. Le joueur actif choisit d'effectuer une Action ou de Passer.
 		- **Action** : Choisissez 1 Action dans le tableau des Actions de l'Âge actuel, payez son coût, augmentez le Compteur d'actions de 1 et suivez les instructions relatives à cette Action (voir page 12).

@@ -14,7 +14,7 @@ Au cours de cette ère, qui s'étend sur des centaines de milliers d'années, la
 # Début de la Préhistoire
 
 Avant le premier tour, remettez le Compteur d'actions à zéro. Ensuite, chaque joueur lance 2d6 et ajoute le total à sa Réserve d'actions.
-# Le tour préhistorique
+# Le tour Préhistorique
 
 - A. Chaque joueur joue à son tour. Le tour du joueur
 	1. Le joueur actif choisit d'effectuer une action ou de passer.
