@@ -11,7 +11,7 @@ Durant cette période, les différents Peuples continuent d'interagir, se scinda
 | Étendre le territoire  | 1*         |
 | Entreprise             | 1*         |
 * * +1 PA si vous ciblez un élément dont vous n'êtes pas le Gardien.
-# Début de l'Âge actuel
+# Début du Présent
 
 Avant le premier tour, remettez le Compteur d'actions à zéro. Ensuite, chaque joueur lance 2d6 et ajoute le total à sa Réserve d'actions.
 # Le tour actuel

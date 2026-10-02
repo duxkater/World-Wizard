@@ -11,7 +11,7 @@ Au cours de cette ère, qui s'étend sur des centaines de milliers d'années, la
 | Entreprise               | 1*         |
 
 *  * +1 PA si vous ciblez un élément dont vous n'êtes pas le Gardien.
-# Début de l'ère préhistorique
+# Début de la Préhistoire
 
 Avant le premier tour, remettez le Compteur d'actions à zéro. Ensuite, chaque joueur lance 2d6 et ajoute le total à sa Réserve d'actions.
 # Le tour préhistorique
