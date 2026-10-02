@@ -1,0 +1,415 @@
+# Terrain
+
+- 01-02 Badlands / karst
+- 03 Champs de cristaux
+- 04-13 Désert / dunes
+- 14-18 Plaine / savane
+- 19-20 Étendue plane / plaine inondable
+- 21 Forêt de champignons
+- 22-23 Prairies
+- 24-33 Hautes terres / collines
+- 34-43 Région froide / toundra
+- 44-53 Jungle
+- 54-63 Montagnes
+- 64-68 Plaines
+- 69-70 Broussailles / maquis
+- 71-72 Terrains en gradins / terrasses
+- 73-74 Souterrain / grottes
+- 75-76 Terres désolées
+- 77-82 Zone humide / marais
+- 83-100 Bois / forêt
+# Éléments naturels
+
+- 01-03 Aire / Nid
+- 04-06 Canyon
+- 07-09 Caverne(s)
+- 10-12 Gouffre / Fissure
+- 13-15 Falaises / Escarpements
+- 16-18 Cratère(s)
+- 18-21 Fjord(s)
+- 22-24 Champ(s) de geysers
+- 25-27 Glacier(s)
+- 28-30 Clairière / Bosquet
+- 31-33 Vallon / Combe
+- 34-36 Gorge / Ravin
+- 37-39 Repaire / Antre
+- 40-42 Champ(s) de lave
+- 43-45 Mesa / Butte
+- 46-48 Nexus / Confluence
+- 49-51 Col
+- 52-54 Sommet
+- 55-57 Fosse / Trou
+- 58-60 Plateau
+- 61-63 Étang / Lac
+- 64-66 Récif(s)
+- 67-69 Gisement de ressources
+- 70-72 Crête / Élévation
+- 73-75 Rivière
+- 76-78 Rocher / Formation(s) rocheuse(s)
+- 79-81 Doline / Gouffre d'effondrement
+- 82-84 Source / Oasis
+- 85-87 Arbre / Végétation
+- 88-90 Vallée
+- 91-93 Volcan
+- 94-96 Cascade / Chute d'eau
+- 97-100 Lancez deux fois et combinez
+# Éléments artificiels
+
+- 01-05 Aqueduc
+- 06-10 Pont / passage
+- 11-15 Cercle / clairière
+- 16-20 Citadelle / forteresse
+- 21-25 Barrage
+- 26-30 Porte / portail
+- 31-35 Cimetière / champ d'ossements
+- 36-40 Refuge / sanctuaire
+- 41-45 Hutte / habitation
+- 46-50 Repaire / antre
+- 51-55 Nexus / carrefour
+- 56-60 Palais
+- 61-65 Motif / toile
+- 66-70 Prison
+- 71-75 Route / voie rapide
+- 76-80 Statue / monument
+- 81-85 Temple
+- 86-90 Tombeau / crypte
+- 91-95 Tour / flèche
+- 96-100 Mur / barrière
+# Événements
+
+- 01-03 Alliance
+- 04-06 Trahison
+- 07-09 Célébration
+- 10-12 Contact / échange
+- 13-15 Mort
+- 16-18 Diplomatie
+- 18-21 Découverte
+- 22-24 Exploration
+- 25-27 Amour interdit
+- 28-30 Croissance / expansion
+- 31-33 Héroïsme
+- 34-36 Intrigue
+- 37-39 Invention
+- 40-42 Voyage / odyssée
+- 43-45 Oppression
+- 46-48 Prophétie
+- 49-51 Quête
+- 52-54 Rébellion
+- 55-57 Renaissance / renouveau
+- 58-60 Rédemption
+- 61-63 Restauration / renouveau
+- 64-66 Vengeance
+- 67-69 Rivalité
+- 70-72 Sacrifice
+- 73-75 Salut
+- 76-78 Siège
+- 79-81 Survie
+- 82-84 Commerce
+- 85-87 Transformation
+- 88-90 Traité / accord
+- 91-93 Ruse / tromperie
+- 94-96 Trêve / paix
+- 97-100 Guerre / agression
+# Catastrophes
+## Type de catastrophe
+
+- 01-10 Peste/épidémie
+- 11-20 Famine/fléau
+- 21-25 Sécheresse
+- 26-30 Guerre civile/rébellion
+- 31-35 Séisme
+- 36-40 Ouragan majeur
+- 41-45 Tempête de sable majeure
+- 46-50 Blizzard majeur
+- 51-55 Incendie majeur
+- 56-60 Inondation majeure
+- 61-65 Éruption volcanique
+- 66-70 Corruption chaotique
+- 71-75 Nuée de bêtes
+- 76-80 Horde de monstres
+- 81-85 Monstre titanesque
+- 86-88 Ténèbres
+- 89-91 Cataclysme magique
+- 92-94 Chute de météorite
+- 95-96 Fissure planaire
+- 97-98 Incursion démoniaque
+- 99-100 Colère divine
+## Catastrophe – Étendue
+
+- 01-40 Limitée/locale (env. 1d10+1 hexagones)
+- 41-90 Étendue/régionale (env. 2d10+10 hexagones)
+- 91-99 Majeure/continentale (env. 3d10×10 hexagones)
+- 100 Vaste/mondiale
+# Avatar
+
+Choisissez ou tirez au sort 1 descripteur et 1 rôle à combiner.
+## Descripteur
+
+- 01-03 Air/vent
+- 04-06 Élu
+- 07-09 Ténèbres
+- 10-12 Mort
+- 13-15 Désert/sable
+- 16-18 Terre
+- 18-21 Élémentaire
+- 22-24 Enchanté
+- 25-27 Fertilité
+- 28-30 Féerique
+- 31-33 Feu/chaleur
+- 34-36 Forêt
+- 37-39 Sacré/béni
+- 40-42 Glace/froid
+- 43-45 Immortel
+- 46-48 Légendaire
+- 49-51 Vie
+- 52-54 Lumière
+- 55-57 Amour
+- 58-60 Lune
+- 61-63 Montagne
+- 64-66 Nature
+- 67-69 Noble
+- 70-72 Ombre
+- 73-75 Métamorphose
+- 76-78 Soleil
+- 79-81 Temps
+- 82-84 Monde souterrain
+- 85-87 Profane/maudit
+- 88-90 Guerre
+- 91-93 Eau/mer
+- 94-96 Météo/ciel
+- 97-100 Ailé
+## Rôle
+
+- 01-03 Ange/saint
+- 04-06 Assassin
+- 07-09 Bête/monstre
+- 10-12 Enfant
+- 13-15 Élu(e)
+- 16-18 Créature
+- 18-21 Demi-dieu
+- 22-24 Démon/diable
+- 25-27 Père
+- 28-30 Gardien
+- 31-33 Héroïne/héros
+- 34-36 Inventeur
+- 37-39 Chef/leader
+- 40-42 Amant/amante
+- 43-45 Créateur/forgeron
+- 46-48 Messager
+- 49-51 Monstre
+- 52-54 Nécromancien
+- 55-57 Prêtre/prêtresse
+- 58-60 Princesse/prince
+- 61-63 Prophète
+- 64-66 Reine/roi
+- 67-69 Voyant/oracle
+- 70-72 Serpent/dragon
+- 73-75 Sorcier/magicien
+- 76-78 Esprit/fantôme
+- 79-81 Espion
+- 82-84 Titan/béhémoth
+- 85-87 Marchand
+- 88-90 Voyageur/vagabond
+- 91-93 Filou/voleur
+- 94-96 Jumeaux
+- 97-100 Guerrier
+## Haut fait
+
+- 01-03 S'élever
+- 04-06 Éveiller
+- 07-09 Bannir/exiler
+- 10-12 Bénir/maudire
+- 13-15 Défier
+- 16-18 Purifier
+- 18-21 Dissimuler/cacher
+- 22-24 Conquérir/vaincre
+- 25-27 Créer
+- 28-30 Défendre/protéger
+- 31-33 Délivrer
+- 34-36 Détruire
+- 37-39 Découvrir
+- 40-42 Endurer
+- 43-45 Éclairer
+- 46-48 Explorer/naviguer
+- 49-51 Pardonner/condamner
+- 52-54 Abandonner/trahir
+- 55-57 Fortifier
+- 58-60 Guider
+- 61-63 Guérir/restaurer
+- 64-66 Illuminer
+- 67-69 Inspirer/mener
+- 70-72 Libérer
+- 73-75 Négocier
+- 76-78 Renverser
+- 79-81 Rallier
+- 82-84 Racheter/récupérer
+- 85-87 Se réincarner
+- 88-90 Révéler
+- 91-93 Sacrifier
+- 94-96 Transformer
+- 97-100 Unir
+# Peuple
+## 1ere partie
+
+- 01-02 Amorphe
+- 03-04 Amphibien
+- 05-06 Aquatique
+- 07-08 Arachnoïde
+- 09-10 Aviaire
+- 11-12 Canin
+- 13-14 Caméléonesque
+- 15-16 Chitineux
+- 17-18 Minuscule
+- 19-20 Nain
+- 21-22 Nain
+- 23-24 Elfique
+- 25-26 Éthéré
+- 27-28 Félin
+- 29-30 Igné
+- 31-32 Fongoïde
+- 33-34 Géant
+- 35-36 Gobelinoïde
+- 37-38 Halfelin
+- 39-40 Halfelin
+- 41-42 Halfelin
+- 43-44 Humanoïde
+- 45-46 Humanoïde
+- 47-48 Humanoïde
+- 49-50 Humanoïde
+- 51-52 Humanoïde
+- 53-54 Humanoïde
+- 55-56 Glacial
+- 57-58 Insectoïde
+- 59-60 Lithoïde
+- 61-62 Lupin
+- 63-64 Marsupial
+- 65-66 Molluscoïde
+- 67-68 Multicéphale
+- 69-70 Multipède
+- 71-72 Nécroïde
+- 73-74 Orque
+- 75-76 Parasitaire
+- 77-78 Plantaire
+- 79-80 Porcin
+- 81-82 Homme-rat
+- 83-84 Reptilien
+- 85-86 Saurien
+- 87-88 Serpentin
+- 89-90 Métamorphe
+- 91-92 Élancé
+- 93-94 Trapu
+- 95-96 Ténébreux
+- 97-98 Tentaculaire
+- 99-100 Ursin
+## 2eme partie
+
+- 01-02 Architectes
+- 03-04 Artisans
+- 05-06 Caméléons
+- 07-08 Colonisateurs
+- 09-10 Conquérants
+- 11-12 Conservateurs
+- 13-14 Croisés
+- 15-16 Défenseurs
+- 17-18 Diplomates
+- 19-20 Ingénieurs
+- 21-22 Artistes
+- 23-24 Explorateurs
+- 25-26 Agriculteurs
+- 27-28 Gardiens
+- 29-30 Précurseurs
+- 31-32 Guérisseurs
+- 33-34 Historiens
+- 35-36 Chasseurs
+- 37-38 Illusionnistes
+- 39-40 Industriels
+- 41-42 Infiltrés
+- 43-44 Magiciens
+- 45-46 Manipulateurs
+- 47-48 Mercenaires
+- 49-50 Marchands
+- 51-52 Mineurs
+- 53-54 Missionnaires
+- 55-56 Mystiques
+- 57-58 Naturalistes
+- 59-60 Nomades
+- 61-62 Parias
+- 63-64 Pacificateurs
+- 65-66 Philosophes
+- 67-68 Psychiques
+- 69-70 Pillards
+- 71-72 Sages
+- 73-74 Intrigants
+- 75-76 Érudits
+- 77-78 Voyants
+- 79-80 Chercheurs
+- 81-82 Sorciers
+- 83-84 Intendants
+- 85-86 Voleurs
+- 87-88 Commerçants
+- 89-90 Vagabonds
+- 91-92 Surveillants
+- 93-94 Guerriers
+- 95-96 Veilleurs
+- 97-98 Travailleurs
+- 99-100 Zélotes
+## Alignement
+
+- 01-10 Bon
+- 11-35 Loyal
+- 36-65 Neutre
+- 66-90 Chaotique
+- 91-100 Mauvais
+# Faction
+## 1re partie
+
+- 01-02 Ancien
+- 03-04 Arcanique
+- 05-06 Astral
+- 07-08 Noir
+- 09-10 Céleste
+- 11-12 Chaotique
+- 13-14 Élu
+- 15-16 Maudit
+- 17-18 Obscur
+- 19-20 Démoniaque
+- 21-22 Dévoué
+- 23-24 Divin
+- 25-26 Élémentaire
+- 27-28 Énigmatique
+- 29-30 Éthéré
+- 31-32 Maléfique
+- 33-34 Extraplanaire
+- 35-36 Féral
+- 37-38 Oublié
+- 39-40 Délaissé
+- 41-42 Marginal
+- 43-44 Spectral
+- 45-46 Doré
+- 47-48 Sacré
+- 49-50 Loyal
+- 51-52 Lumineux
+- 53-54 Lunaire
+- 55-56 Monstrueux
+- 57-58 Mystique
+- 59-60 Noble
+- 61-62 Lié par serment
+- 63-64 Fantomatique
+- 65-66 Radiant
+- 67-68 Rayonnant
+- 69-70 Renégat
+- 71-72 Impitoyable
+- 73-74 Sauvage
+- 75-76 Secret
+- 77-78 Serein
+- 79-80 Ténébreux
+- 81-82 Silencieux
+- 83-84 Solaire
+- 85-86 Souverain
+- 87-88 Traditionnel
+- 89-90 Mort-vivant
+- 91-92 Profane
+- 93-94 Voilé
+- 95-96 Errant
+- 97-98 Blanc
+- 99-100 Vicieux
