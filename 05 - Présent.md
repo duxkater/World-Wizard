@@ -9,7 +9,7 @@ Durant cette période, les différents Peuples continuent d'interagir, se scinda
 | Créer un peuple        | 4          |
 | Modifier l'alignement  | 0*         |
 | Étendre le territoire  | 1*         |
-| Entreprise             | 1*         |
+| Accomplissement        | 1*         |
 * * +1 PA si vous ciblez un élément dont vous n'êtes pas le Gardien.
 # Début du Présent
 

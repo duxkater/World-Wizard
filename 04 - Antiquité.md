@@ -1,15 +1,15 @@
 Au fil des millénaires de cet Âge, les civilisations s'étendent, se développent et interagissent, tandis que de grands héros et des monstres marquent l'histoire de leur empreinte.
 
-| Action | Coût en PA |
-| :--- | :--- |
-| Créer un terrain | 3 |
-| Créer un élément naturel | 2 |
-| Créer un avatar | 1 |
-| Accomplir un haut fait | 1* |
-| Créer un peuple | 3 |
-| Modifier l'alignement | 0* |
-| Étendre le territoire | 1* |
-| Entreprise | 1* |
+| Action                   | Coût en PA |
+| :----------------------- | :--------- |
+| Créer un terrain         | 3          |
+| Créer un élément naturel | 2          |
+| Créer un avatar          | 1          |
+| Accomplir un haut fait   | 1*         |
+| Créer un peuple          | 3          |
+| Modifier l'alignement    | 0*         |
+| Étendre le territoire    | 1*         |
+| Accomplissement          | 1*         |
 # Début de l'Antiquité
 
 Avant le premier tour, remettez le Compteur d'actions à zéro. Ensuite, chaque joueur lance 2d6 et ajoute le total à sa Réserve d'actions.

@@ -40,11 +40,11 @@ Résultat du jet de guerre
 - 2-6 L'agresseur peut revendiquer un territoire en fonction de son niveau, mais au prix fort : le joueur défenseur en détermine le coût, et vous devez choisir soit de l'accepter, soit de battre en retraite sans revendiquer le territoire du défenseur.
 - 7-9 L'agresseur revendique un territoire en fonction de son niveau, moyennant une contrepartie narrative choisie par le joueur défenseur.
 - 10-12 L'agresseur sort vainqueur et revendique un territoire en fonction de son niveau.
-## Entreprise (PA -/1/1/1 ; +1 si vous n'êtes pas l'Intendant du Peuple)
+## Accomplissement (PA -/1/1/1 ; +1 si vous n'êtes pas le Gardien du Peuple)
 
 Choisissez un Peuple déjà présent sur la carte et choisissez ou déterminez aléatoirement l'un des éléments suivants :
 
-- 01-30 **Fonder une faction** : Un sous-groupe de la population s'organise en faction. Choisissez ou déterminez aléatoirement la faction (tableau page 18) et son alignement (page 17). Décrivez les objectifs de la faction.
+- 01-30 **Fonder une faction** : Un sous-groupe de la population s'organise en faction. Choisissez ou déterminez aléatoirement la faction et son alignement. Décrivez les objectifs de la faction.
 - 31-60 **Fonder une cité** : Un centre culturel et commercial entre en jeu. Placez-le sur la carte, donnez-lui un nom et décrivez son importance.
 - 61-80 **Progrès :** Le Peuple progresse d'un niveau.
-- 81-100 **Autre** : Le Peuple entreprend une action de votre choix (par ex. : construire un élément artificiel). Si vous manquez d'idées, consultez le tableau des hauts faits (page 16).
+- 81-100 **Autre** : Le Peuple entreprend une action de votre choix (par ex. : construire un élément artificiel). Si vous manquez d'idées, consultez le tableau des hauts faits.

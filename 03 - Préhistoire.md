@@ -8,7 +8,7 @@ Au cours de cette ère, qui s'étend sur des centaines de milliers d'années, la
 | Accomplir un haut fait   | 1*         |
 | Créer un peuple          | 2          |
 | Étendre le territoire    | 1*         |
-| Entreprise               | 1*         |
+| Accomplissement          | 1*         |
 
 *  * +1 PA si vous ciblez un élément dont vous n'êtes pas le Gardien.
 # Début de la Préhistoire
